@@ -30,10 +30,10 @@ body{
   margin: 120px 0px 0px 0px;
 }
 .odd{
-  background-image: url('white.jpg');
+  background-image: url("white.jpg");
 }
 .even{
-  background-image: url('black.jpeg');
+  background-image: url("black.jpeg");
 }
 .border{
   height: 1px;
@@ -43,7 +43,7 @@ body{
   margin: null;
   height: 25px;
   width: 30px;
-  background-image: url('frame3.jpeg');
+  background-image: url("frame3.jpeg");
   
   
 }
