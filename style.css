@@ -30,7 +30,7 @@ body{
   margin: 120px 0px 0px 0px;
 }
 .odd{
-  background-image: url('White.jpg');
+  background-image: url('white.jpg');
 }
 .even{
   background-image: url('black.jpeg');
